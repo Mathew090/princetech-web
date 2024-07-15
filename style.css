@@ -1,0 +1,147 @@
+.upcontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    max-width: 100px;
+    margin: 20px;
+    justify-content: space-between;
+    padding-left: 45px;
+    margin bottom: 400px;
+}
+.all{
+    margin-top: 15px;
+}
+.al{
+    margin-left: 20px;
+}
+.a{
+    margin-right: 85px;
+    padding-left: 20px;
+}
+.downcontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    max-width: 200px;
+    margin: 20px;
+    justify-content: space-between;
+    padding-left: 45px;
+}
+img{
+    width: 350px;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10PX;
+    margin-top: 30px;
+    padding-right: 80px;
+    float: left;
+    gap: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    margin-top: 50px;
+    cursor: pointer;
+    
+}
+.side img{
+    width: 50px;
+}
+.upp{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    padding-left: 45px;
+    cursor: pointer;
+}
+.upp img{
+    width: 38px;
+}
+.upp .you{
+    width: 150px;
+    padding: 20px;
+    padding-left: 85px;
+}
+input{
+    width: 350px;
+    height: 45px;
+    margin-top: 18px;
+    padding-left: 95px;
+    padding: 10px;
+ 
+}
+.search{
+    margin-top: 19px;
+    display: flex;
+    flex-direction: row;
+       
+}
+.rh{
+    display: flex;
+    flex-direction: row;
+    padding-left: 75px;
+    margin-top: -13x;
+    gap: 69px;
+  
+
+}
+.search{
+    padding: 5px;
+    background-color: rgb(78, 67, 67);
+    width: 25px;
+    height: 35px;
+}
+.search p{
+    border: none;
+    border-radius: 20px;
+    width: 25px;
+    margin-top: -3px;
+    padding-left: 6px;
+    
+    
+}
+.search .ll{
+    padding-left: 495px;
+    height: 58px;
+    width: 55px;
+    border-radius: 78px;
+    padding: 5px;
+}
+.all .ok{
+    background-color: black;
+    color: white;
+    width: 39px;
+    margin-top: -30px;
+    padding-left: 297px;
+    cursor: pointer;
+}
+.al .ok{
+    background-color: black;
+    color: white;
+    width: 39px;
+    margin-top: -30px;
+    padding-left: 297px;
+    cursor: pointer;
+}
+.a .ok{
+    background-color: black;
+    color: white;
+    width: 39px;
+    margin-top: -30px;
+    padding-left: 297px;
+    cursor: pointer;
+}
+.search .yh{
+    background-color: red;
+    height: 22px;
+    width: 18px;
+    border: none;
+    border-radius: 38px;
+    
+}
+
+
